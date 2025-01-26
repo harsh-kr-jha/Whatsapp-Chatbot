@@ -5,7 +5,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/your-username/whatsapp-bot/internal/state"
+	"github.com/harsh-kr-jha/Whatsapp-Chatbot/bpp-bot-whatsapp/internal/state"
 )
 
 // ProcessWebhookData receives the decoded webhook JSON and routes each incoming message

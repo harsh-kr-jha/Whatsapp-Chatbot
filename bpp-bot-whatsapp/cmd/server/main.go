@@ -1,11 +1,12 @@
 package main
 
 import (
-	"bpp-bot-whatsapp/config"
-	"bpp-bot-whatsapp/handlers"
 	"log"
 	"net/http"
 	"os"
+
+	"github.com/harsh-kr-jha/Whatsapp-Chatbot/bpp-bot-whatsapp/internal/config"
+	"github.com/harsh-kr-jha/Whatsapp-Chatbot/bpp-bot-whatsapp/internal/handlers"
 )
 
 func main() {

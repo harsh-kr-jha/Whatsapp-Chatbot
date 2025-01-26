@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/your-username/whatsapp-bot/internal/services"
+	"github.com/harsh-kr-jha/Whatsapp-Chatbot/bpp-bot-whatsapp/internal/services"
 )
 
 // NotifyHandler receives requests from other microservices

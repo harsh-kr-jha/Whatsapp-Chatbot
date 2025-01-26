@@ -5,8 +5,8 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/your-username/whatsapp-bot/internal/config"
-	"github.com/your-username/whatsapp-bot/internal/services"
+	"github.com/harsh-kr-jha/Whatsapp-Chatbot/bpp-bot-whatsapp/internal/config"
+	"github.com/harsh-kr-jha/Whatsapp-Chatbot/bpp-bot-whatsapp/internal/services"
 )
 
 // WebhookHandler is the main entry for WhatsApp to POST message updates

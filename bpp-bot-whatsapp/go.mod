@@ -1,4 +1,4 @@
-module github.com/ONEST-Network/Whatsapp-Chatbot
+module github.com/harsh-kr-jha/Whatsapp-Chatbot/bpp-bot-whatsapp
 
 go 1.23.5
 
